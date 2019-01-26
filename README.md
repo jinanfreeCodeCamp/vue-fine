@@ -8,7 +8,7 @@ vue-fine
 
 - [ ] router
 - [ ] login.vue
-
+- [ ] role
 
 ## The MIT License (MIT)
 
